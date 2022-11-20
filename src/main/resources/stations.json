@@ -1,0 +1,1089 @@
+{
+	"stations": [{
+			"name": "abrantes"
+		},
+		{
+			"name": "adémia"
+		},
+		{
+			"name": "afife"
+		},
+		{
+			"name": "agualva-cacém"
+		},
+		{
+			"name": "águas santas / palmilheira"
+		},
+		{
+			"name": "aguda"
+		},
+		{
+			"name": "aguim"
+		},
+		{
+			"name": "albergaria dos doze"
+		},
+		{
+			"name": "albufeira-ferreiras"
+		},
+		{
+			"name": "alcaçovas"
+		},
+		{
+			"name": "alcaide"
+		},
+		{
+			"name": "alcains"
+		},
+		{
+			"name": "alcântara-mar"
+		},
+		{
+			"name": "alcântara-terra"
+		},
+		{
+			"name": "alcaria"
+		},
+		{
+			"name": "aldeia"
+		},
+		{
+			"name": "alegria"
+		},
+		{
+			"name": "alfarelos"
+		},
+		{
+			"name": "alferrarede"
+		},
+		{
+			"name": "algés"
+		},
+		{
+			"name": "algoz"
+		},
+		{
+			"name": "algueirão"
+		},
+		{
+			"name": "alhandra"
+		},
+		{
+			"name": "alhos vedros"
+		},
+		{
+			"name": "almourol"
+		},
+		{
+			"name": "alpedrinha"
+		},
+		{
+			"name": "alvarães"
+		},
+		{
+			"name": "alvega-ortiga"
+		},
+		{
+			"name": "alverca"
+		},
+		{
+			"name": "alvito"
+		},
+		{
+			"name": "amadora"
+		},
+		{
+			"name": "ameal"
+		},
+		{
+			"name": "âncora-praia"
+		},
+		{
+			"name": "aregos"
+		},
+		{
+			"name": "areia-darque"
+		},
+		{
+			"name": "arentim"
+		},
+		{
+			"name": "areosa"
+		},
+		{
+			"name": "arronches"
+		},
+		{
+			"name": "assumar"
+		},
+		{
+			"name": "avanca"
+		},
+		{
+			"name": "aveiro"
+		},
+		{
+			"name": "aveleda"
+		},
+		{
+			"name": "azambuja"
+		},
+		{
+			"name": "baixa da banheira"
+		},
+		{
+			"name": "baraçal"
+		},
+		{
+			"name": "barca da amieira-envendos"
+		},
+		{
+			"name": "barcelos"
+		},
+		{
+			"name": "barqueiros"
+		},
+		{
+			"name": "barquinha"
+		},
+		{
+			"name": "barragem de belver"
+		},
+		{
+			"name": "barreiro"
+		},
+		{
+			"name": "barreiro-a"
+		},
+		{
+			"name": "barrimau"
+		},
+		{
+			"name": "barroselas"
+		},
+		{
+			"name": "beja"
+		},
+		{
+			"name": "belém"
+		},
+		{
+			"name": "belver-gavião"
+		},
+		{
+			"name": "bemposta"
+		},
+		{
+			"name": "bencanta"
+		},
+		{
+			"name": "benfica"
+		},
+		{
+			"name": "benquerenças"
+		},
+		{
+			"name": "bobadela"
+		},
+		{
+			"name": "boliqueime"
+		},
+		{
+			"name": "bombarral"
+		},
+		{
+			"name": "braço de prata"
+		},
+		{
+			"name": "braga"
+		},
+		{
+			"name": "bustelo"
+		},
+		{
+			"name": "cabeda"
+		},
+		{
+			"name": "cacela"
+		},
+		{
+			"name": "cacia"
+		},
+		{
+			"name": "caíde"
+		},
+		{
+			"name": "cais do sodré"
+		},
+		{
+			"name": "caldas da rainha"
+		},
+		{
+			"name": "caldas de moledo"
+		},
+		{
+			"name": "caminha"
+		},
+		{
+			"name": "campolide"
+		},
+		{
+			"name": "canas-felgueira"
+		},
+		{
+			"name": "canelas"
+		},
+		{
+			"name": "caniços"
+		},
+		{
+			"name": "carapeços"
+		},
+		{
+			"name": "carcavelos"
+		},
+		{
+			"name": "carrascal-delongo"
+		},
+		{
+			"name": "carreço"
+		},
+		{
+			"name": "carregado"
+		},
+		{
+			"name": "carregal do sal"
+		},
+		{
+			"name": "carreira"
+		},
+		{
+			"name": "carvalha"
+		},
+		{
+			"name": "carvalheira-maceda"
+		},
+		{
+			"name": "carvalhos de figueiredo"
+		},
+		{
+			"name": "casa branca"
+		},
+		{
+			"name": "casais"
+		},
+		{
+			"name": "cascais"
+		},
+		{
+			"name": "castanheira do ribatejo"
+		},
+		{
+			"name": "castelejo"
+		},
+		{
+			"name": "castelo branco"
+		},
+		{
+			"name": "castelo novo"
+		},
+		{
+			"name": "caxarias"
+		},
+		{
+			"name": "caxias"
+		},
+		{
+			"name": "celorico da beira"
+		},
+		{
+			"name": "cerdeira"
+		},
+		{
+			"name": "cête"
+		},
+		{
+			"name": "chança"
+		},
+		{
+			"name": "coimbra"
+		},
+		{
+			"name": "coimbra-b"
+		},
+		{
+			"name": "coimbrões"
+		},
+		{
+			"name": "contumil"
+		},
+		{
+			"name": "cortegaça"
+		},
+		{
+			"name": "couto de cambeses"
+		},
+		{
+			"name": "covas"
+		},
+		{
+			"name": "covelinhas"
+		},
+		{
+			"name": "covilhã"
+		},
+		{
+			"name": "crato"
+		},
+		{
+			"name": "cruz quebrada"
+		},
+		{
+			"name": "cuba"
+		},
+		{
+			"name": "cuca"
+		},
+		{
+			"name": "curia"
+		},
+		{
+			"name": "curvaceiras"
+		},
+		{
+			"name": "darque"
+		},
+		{
+			"name": "donas"
+		},
+		{
+			"name": "durrães"
+		},
+		{
+			"name": "elvas"
+		},
+		{
+			"name": "entrecampos"
+		},
+		{
+			"name": "entroncamento"
+		},
+		{
+			"name": "ermesinde"
+		},
+		{
+			"name": "ermida"
+		},
+		{
+			"name": "ermidas sado"
+		},
+		{
+			"name": "esmeriz"
+		},
+		{
+			"name": "esmoriz"
+		},
+		{
+			"name": "espadanal da azambuja"
+		},
+		{
+			"name": "espadaneira"
+		},
+		{
+			"name": "espinho"
+		},
+		{
+			"name": "esqueiro"
+		},
+		{
+			"name": "estarreja"
+		},
+		{
+			"name": "estoril"
+		},
+		{
+			"name": "évora"
+		},
+		{
+			"name": "famalicão"
+		},
+		{
+			"name": "faro"
+		},
+		{
+			"name": "fatela-penamacor"
+		},
+		{
+			"name": "fátima"
+		},
+		{
+			"name": "fernando pó"
+		},
+		{
+			"name": "ferradosa"
+		},
+		{
+			"name": "ferrão"
+		},
+		{
+			"name": "ferreiros"
+		},
+		{
+			"name": "figueira da foz"
+		},
+		{
+			"name": "formoselha"
+		},
+		{
+			"name": "fornos de algodres"
+		},
+		{
+			"name": "francelos"
+		},
+		{
+			"name": "fratel"
+		},
+		{
+			"name": "freineda"
+		},
+		{
+			"name": "freixo de numão"
+		},
+		{
+			"name": "funcheira"
+		},
+		{
+			"name": "fundão"
+		},
+		{
+			"name": "fungalvaz"
+		},
+		{
+			"name": "fuseta-a"
+		},
+		{
+			"name": "gata"
+		},
+		{
+			"name": "general torres"
+		},
+		{
+			"name": "giesteira"
+		},
+		{
+			"name": "godim"
+		},
+		{
+			"name": "gondarém"
+		},
+		{
+			"name": "gouveia"
+		},
+		{
+			"name": "grândola"
+		},
+		{
+			"name": "granja"
+		},
+		{
+			"name": "guarda"
+		},
+		{
+			"name": "guimarães"
+		},
+		{
+			"name": "irivo"
+		},
+		{
+			"name": "juncal"
+		},
+		{
+			"name": "lagos"
+		},
+		{
+			"name": "lamarosa"
+		},
+		{
+			"name": "lapa do lobo"
+		},
+		{
+			"name": "lardosa"
+		},
+		{
+			"name": "lavradio"
+		},
+		{
+			"name": "leandro"
+		},
+		{
+			"name": "leiria"
+		},
+		{
+			"name": "lisboa oriente"
+		},
+		{
+			"name": "lisboa santa apolónia"
+		},
+		{
+			"name": "litém"
+		},
+		{
+			"name": "livração"
+		},
+		{
+			"name": "lordelo"
+		},
+		{
+			"name": "loulé"
+		},
+		{
+			"name": "louro"
+		},
+		{
+			"name": "lousado"
+		},
+		{
+			"name": "luso - buçaco"
+		},
+		{
+			"name": "madalena"
+		},
+		{
+			"name": "mangualde"
+		},
+		{
+			"name": "marco de canaveses"
+		},
+		{
+			"name": "marvila"
+		},
+		{
+			"name": "massamá-barcarena"
+		},
+		{
+			"name": "mato de miranda"
+		},
+		{
+			"name": "mazagão"
+		},
+		{
+			"name": "mealhada"
+		},
+		{
+			"name": "meia-praia"
+		},
+		{
+			"name": "meinedo"
+		},
+		{
+			"name": "mercês"
+		},
+		{
+			"name": "midões"
+		},
+		{
+			"name": "mira sintra-meleças"
+		},
+		{
+			"name": "miramar"
+		},
+		{
+			"name": "mirão"
+		},
+		{
+			"name": "miuzela"
+		},
+		{
+			"name": "mogofores"
+		},
+		{
+			"name": "moimenta-alcafache"
+		},
+		{
+			"name": "moita"
+		},
+		{
+			"name": "moledo do minho"
+		},
+		{
+			"name": "monte abraão"
+		},
+		{
+			"name": "monte de lobos"
+		},
+		{
+			"name": "monte estoril"
+		},
+		{
+			"name": "monte gordo"
+		},
+		{
+			"name": "mortágua"
+		},
+		{
+			"name": "moscavide"
+		},
+		{
+			"name": "mosteirô"
+		},
+		{
+			"name": "mouquim"
+		},
+		{
+			"name": "mouriscas-a"
+		},
+		{
+			"name": "nelas"
+		},
+		{
+			"name": "nespereira"
+		},
+		{
+			"name": "nine"
+		},
+		{
+			"name": "oeiras"
+		},
+		{
+			"name": "oiã"
+		},
+		{
+			"name": "oleiros"
+		},
+		{
+			"name": "olhão"
+		},
+		{
+			"name": "oliveira"
+		},
+		{
+			"name": "oliveira do bairro"
+		},
+		{
+			"name": "oliveirinha-cabanas"
+		},
+		{
+			"name": "ovar"
+		},
+		{
+			"name": "paço de arcos"
+		},
+		{
+			"name": "paialvo"
+		},
+		{
+			"name": "pala"
+		},
+		{
+			"name": "palmela"
+		},
+		{
+			"name": "pampilhosa"
+		},
+		{
+			"name": "papízios"
+		},
+		{
+			"name": "parada"
+		},
+		{
+			"name": "paraimo-sangalhos"
+		},
+		{
+			"name": "paramos"
+		},
+		{
+			"name": "parede"
+		},
+		{
+			"name": "paredes"
+		},
+		{
+			"name": "pegões"
+		},
+		{
+			"name": "pelariga"
+		},
+		{
+			"name": "penafiel"
+		},
+		{
+			"name": "penteado"
+		},
+		{
+			"name": "pereira"
+		},
+		{
+			"name": "pereirinhas"
+		},
+		{
+			"name": "pinhal novo"
+		},
+		{
+			"name": "pinhão"
+		},
+		{
+			"name": "poceirão"
+		},
+		{
+			"name": "pocinho"
+		},
+		{
+			"name": "pombal"
+		},
+		{
+			"name": "ponte de sor"
+		},
+		{
+			"name": "porta nova"
+		},
+		{
+			"name": "portalegre"
+		},
+		{
+			"name": "portela"
+		},
+		{
+			"name": "portela de sintra"
+		},
+		{
+			"name": "portimão"
+		},
+		{
+			"name": "porto campanhã"
+		},
+		{
+			"name": "porto rei"
+		},
+		{
+			"name": "porto são bento"
+		},
+		{
+			"name": "póvoa"
+		},
+		{
+			"name": "praça do quebedo"
+		},
+		{
+			"name": "pragal"
+		},
+		{
+			"name": "praia do ribatejo"
+		},
+		{
+			"name": "praias do sado"
+		},
+		{
+			"name": "queluz-belas"
+		},
+		{
+			"name": "quintans"
+		},
+		{
+			"name": "reboleira"
+		},
+		{
+			"name": "recarei-sobreira"
+		},
+		{
+			"name": "recesinhos"
+		},
+		{
+			"name": "rede"
+		},
+		{
+			"name": "régua"
+		},
+		{
+			"name": "reguengo - vale da pedra - pontevel"
+		},
+		{
+			"name": "retaxo"
+		},
+		{
+			"name": "riachos - torres novas - golegã"
+		},
+		{
+			"name": "rio de mouro"
+		},
+		{
+			"name": "rio tinto"
+		},
+		{
+			"name": "rochoso"
+		},
+		{
+			"name": "rodão"
+		},
+		{
+			"name": "roma-areeiro"
+		},
+		{
+			"name": "rossio"
+		},
+		{
+			"name": "ruílhe"
+		},
+		{
+			"name": "sacavém"
+		},
+		{
+			"name": "salreu"
+		},
+		{
+			"name": "santa cita"
+		},
+		{
+			"name": "santa comba dão"
+		},
+		{
+			"name": "santa cruz damaia"
+		},
+		{
+			"name": "santa eulália-a"
+		},
+		{
+			"name": "santa iria"
+		},
+		{
+			"name": "santa margarida"
+		},
+		{
+			"name": "santana-cartaxo"
+		},
+		{
+			"name": "santarém"
+		},
+		{
+			"name": "santo amaro de oeiras"
+		},
+		{
+			"name": "santo tirso"
+		},
+		{
+			"name": "santos"
+		},
+		{
+			"name": "são frutuoso"
+		},
+		{
+			"name": "são joão das craveiras"
+		},
+		{
+			"name": "são joão do estoril"
+		},
+		{
+			"name": "são martinho do campo"
+		},
+		{
+			"name": "são pedro da torre"
+		},
+		{
+			"name": "são pedro do estoril"
+		},
+		{
+			"name": "são romão"
+		},
+		{
+			"name": "sarnadas"
+		},
+		{
+			"name": "seiça-ourém"
+		},
+		{
+			"name": "seixas"
+		},
+		{
+			"name": "senhora da agonia"
+		},
+		{
+			"name": "senhora das neves"
+		},
+		{
+			"name": "sete rios"
+		},
+		{
+			"name": "setil"
+		},
+		{
+			"name": "setúbal"
+		},
+		{
+			"name": "silva"
+		},
+		{
+			"name": "silvalde"
+		},
+		{
+			"name": "silves"
+		},
+		{
+			"name": "simões"
+		},
+		{
+			"name": "sintra"
+		},
+		{
+			"name": "soalheira"
+		},
+		{
+			"name": "soito"
+		},
+		{
+			"name": "soudos - vila nova"
+		},
+		{
+			"name": "soure"
+		},
+		{
+			"name": "souselas"
+		},
+		{
+			"name": "suzão"
+		},
+		{
+			"name": "tadim"
+		},
+		{
+			"name": "tamel"
+		},
+		{
+			"name": "tancos"
+		},
+		{
+			"name": "taveiro"
+		},
+		{
+			"name": "tavira"
+		},
+		{
+			"name": "terronhas"
+		},
+		{
+			"name": "tojeirinha"
+		},
+		{
+			"name": "tomar"
+		},
+		{
+			"name": "torre das vargens"
+		},
+		{
+			"name": "torres vedras"
+		},
+		{
+			"name": "tortosendo"
+		},
+		{
+			"name": "tramagal"
+		},
+		{
+			"name": "trancoso"
+		},
+		{
+			"name": "travagem"
+		},
+		{
+			"name": "trofa"
+		},
+		{
+			"name": "tua"
+		},
+		{
+			"name": "tunes"
+		},
+		{
+			"name": "vacariça"
+		},
+		{
+			"name": "valadares"
+		},
+		{
+			"name": "vale de figueira"
+		},
+		{
+			"name": "vale de prazeres"
+		},
+		{
+			"name": "vale de santarém"
+		},
+		{
+			"name": "válega"
+		},
+		{
+			"name": "valença"
+		},
+		{
+			"name": "valongo"
+		},
+		{
+			"name": "vargelas"
+		},
+		{
+			"name": "venda do alcaide"
+		},
+		{
+			"name": "vendas novas"
+		},
+		{
+			"name": "vermoil"
+		},
+		{
+			"name": "verride"
+		},
+		{
+			"name": "vesúvio"
+		},
+		{
+			"name": "viana do castelo"
+		},
+		{
+			"name": "vila das aves"
+		},
+		{
+			"name": "vila fernando"
+		},
+		{
+			"name": "vila franca das naves"
+		},
+		{
+			"name": "vila franca de xira"
+		},
+		{
+			"name": "vila meã"
+		},
+		{
+			"name": "vila nova da baronia"
+		},
+		{
+			"name": "vila nova da rainha"
+		},
+		{
+			"name": "vila nova de anços"
+		},
+		{
+			"name": "vila nova de cerveira"
+		},
+		{
+			"name": "vila nova de gaia - devesas"
+		},
+		{
+			"name": "vila pouca do campo"
+		},
+		{
+			"name": "vila real de santo antónio"
+		},
+		{
+			"name": "vilar formoso"
+		},
+		{
+			"name": "vilela-fornos"
+		},
+		{
+			"name": "virtudes"
+		},
+		{
+			"name": "vizela"
+		}
+	]
+}
